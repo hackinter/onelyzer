@@ -112,7 +112,7 @@ Here’s a sample of the data that the tool will display in your terminal:
 
 ### Error Handling
 
-- **Lighthouse Not Found**: If you encounter an error like `/bin/sh: 1: lighthouse: not found`, it indicates that the `lighthouse` tool is missing. You can install it via npm to use performance and SEO analysis features:
+- **Lighthouse Not Found**: If you encounter an error like `/bin/sh: 1: lighthouse: not found, ' it indicates that the `lighthouse` tool is missing. You can install it via npm to use performance and SEO analysis features:
 
   ```bash
   npm install -g lighthouse
@@ -120,8 +120,8 @@ Here’s a sample of the data that the tool will display in your terminal:
 
 ## Important Notes
 
-- ⚠️ **Ethical Use**: Always ensure you have explicit permission to test the website. Unauthorized testing may be illegal and could result in serious consequences.
-- 🛡️ **Payloads**: Make sure you are using the latest and most relevant payloads for accurate vulnerability testing.
+- ⚠️ **Ethical Use**: Ensure you have explicit permission to test the website. Unauthorized testing may be illegal and could result in serious consequences.
+- 🛡️ **Payloads**: Ensure you use the latest and most relevant payloads for accurate vulnerability testing.
 - 🕹️ **Network Traffic**: Repeated requests to a website might trigger security measures like rate limiting or blocking. Always ensure you're testing within reasonable limits to avoid being flagged as a malicious actor.
 - 📜 **Legal Compliance**: Use this tool only for authorized penetration testing. Always comply with ethical hacking guidelines and legal regulations.
 
@@ -141,8 +141,31 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 For any questions or feedback, feel free to reach out:
 
-- [Email](mailto:ceh.ec.counselor147@gmail.com)
-- [Telegram](https://t.me/chat_with_hackinter_bot)
-- [Twitter](https://x.com/_anonix_z)
-```
+<p align="center">
+  <a href="https://twitter.com/_anonix_z">
+    <img alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+  </a>
+  <a href="https://linkedin.com/in/no_acca">
+    <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  </a>
+  <a href="https://github.com/hackinter">
+    <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
+  </a>
+  <a href="https://t.me/HACKINERS">
+    <img alt="Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>
+  </a>
+  <a href="https://instagram.com/sudorootme/">
+    <img alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+  </a>
+  <a href="https://www.facebook.com/sudorootme/">
+    <img alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
+  </a>
+  <a href="https://www.youtube.com/no_yt/">
+    <img alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
+  </a>
+  <a href="mailto:ceh.ec.counselor147@gmail.com">
+    <img alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+  </a>
+</p>
+
 
