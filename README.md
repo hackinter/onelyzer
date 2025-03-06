@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://github.com/github/hackathons">
+    <img src="https://github.com/github/hackathons/blob/main/.github/images/GitHub%20Hackathons%20Logo.png" width="100">
+  </a>
+</div>
+
+
 # Onelyzer
 
 **Onelyzer** is an advanced security testing tool designed for analyzing the security of websites by detecting common vulnerabilities such as XSS, SQL Injection, and more. It provides a comprehensive overview of various security parameters, including server response times, tech stack, and SSL certificate validity, making it an essential tool for ethical hackers and penetration testers.
