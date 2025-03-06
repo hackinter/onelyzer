@@ -6,6 +6,15 @@
 
 
 # Onelyzer
+<div align="center">
+  <a href="https://github.com/hackinter/onelyzer/releases">
+    <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> 
+  </a>
+  <a href="https://github.com/hackinter">
+    <img src="https://img.shields.io/badge/GITHUB-HACKINTER-red.svg" alt="GitHub">
+  </a>
+</div>
+
 
 **Onelyzer** is an advanced security testing tool designed for analyzing the security of websites by detecting common vulnerabilities such as XSS, SQL Injection, and more. It provides a comprehensive overview of various security parameters, including server response times, tech stack, and SSL certificate validity, making it an essential tool for ethical hackers and penetration testers.
 
