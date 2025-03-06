@@ -760,7 +760,7 @@ const vulnChart = new Chart(ctx, {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Advanced Website Analysis Report: {url}</title>
+    <title>ONELYZER Website Analysis Report: {url}</title>
     <style>
     {css_inline}
     </style>
