@@ -750,7 +750,7 @@ const vulnChart = new Chart(ctx, {
         
         # Report Header
         report_header = f"""
-<h1>Advanced Website Analysis Report: {url}</h1>
+<h1>ONELYZER Website Analysis Report: {url}</h1>
 <p>Report generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}</p>
 <hr>
 """
